@@ -1,0 +1,13 @@
+E:\Anthony\Tony\Ingeniería de Sistemas Computacionales\Ciclo 9\Diars\Ejercicios En casa\ConceptosPoo\ConceptosPoo\obj\Debug\netcoreapp3.1\ConceptosPoo.csprojAssemblyReference.cache
+E:\Anthony\Tony\Ingeniería de Sistemas Computacionales\Ciclo 9\Diars\Ejercicios En casa\ConceptosPoo\ConceptosPoo\obj\Debug\netcoreapp3.1\ConceptosPoo.AssemblyInfoInputs.cache
+E:\Anthony\Tony\Ingeniería de Sistemas Computacionales\Ciclo 9\Diars\Ejercicios En casa\ConceptosPoo\ConceptosPoo\obj\Debug\netcoreapp3.1\ConceptosPoo.AssemblyInfo.cs
+E:\Anthony\Tony\Ingeniería de Sistemas Computacionales\Ciclo 9\Diars\Ejercicios En casa\ConceptosPoo\ConceptosPoo\obj\Debug\netcoreapp3.1\ConceptosPoo.csproj.CoreCompileInputs.cache
+E:\Anthony\Tony\Ingeniería de Sistemas Computacionales\Ciclo 9\Diars\Ejercicios En casa\ConceptosPoo\ConceptosPoo\bin\Debug\netcoreapp3.1\ConceptosPoo.exe
+E:\Anthony\Tony\Ingeniería de Sistemas Computacionales\Ciclo 9\Diars\Ejercicios En casa\ConceptosPoo\ConceptosPoo\bin\Debug\netcoreapp3.1\ConceptosPoo.deps.json
+E:\Anthony\Tony\Ingeniería de Sistemas Computacionales\Ciclo 9\Diars\Ejercicios En casa\ConceptosPoo\ConceptosPoo\bin\Debug\netcoreapp3.1\ConceptosPoo.runtimeconfig.json
+E:\Anthony\Tony\Ingeniería de Sistemas Computacionales\Ciclo 9\Diars\Ejercicios En casa\ConceptosPoo\ConceptosPoo\bin\Debug\netcoreapp3.1\ConceptosPoo.runtimeconfig.dev.json
+E:\Anthony\Tony\Ingeniería de Sistemas Computacionales\Ciclo 9\Diars\Ejercicios En casa\ConceptosPoo\ConceptosPoo\bin\Debug\netcoreapp3.1\ConceptosPoo.dll
+E:\Anthony\Tony\Ingeniería de Sistemas Computacionales\Ciclo 9\Diars\Ejercicios En casa\ConceptosPoo\ConceptosPoo\bin\Debug\netcoreapp3.1\ConceptosPoo.pdb
+E:\Anthony\Tony\Ingeniería de Sistemas Computacionales\Ciclo 9\Diars\Ejercicios En casa\ConceptosPoo\ConceptosPoo\obj\Debug\netcoreapp3.1\ConceptosPoo.dll
+E:\Anthony\Tony\Ingeniería de Sistemas Computacionales\Ciclo 9\Diars\Ejercicios En casa\ConceptosPoo\ConceptosPoo\obj\Debug\netcoreapp3.1\ConceptosPoo.pdb
+E:\Anthony\Tony\Ingeniería de Sistemas Computacionales\Ciclo 9\Diars\Ejercicios En casa\ConceptosPoo\ConceptosPoo\obj\Debug\netcoreapp3.1\ConceptosPoo.genruntimeconfig.cache
